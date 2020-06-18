@@ -10,8 +10,7 @@
 This is a standalone HTML page with associated CSS and image assets included.
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-
+The GitHub Pages site can be found [here](https://cjkook.github.io/01-homework-html-css/).
 
 ## License
 MIT License
