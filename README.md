@@ -4,7 +4,6 @@
 * Installation
 * Usage
 * Credits
-* License
 
 ## Installation
 This is a standalone HTML page with associated CSS and image assets included.
